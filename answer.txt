@@ -1,0 +1,3 @@
+Why are you interested in taking DATA602?
+
+I have always been curious about the patterns and variations we can find out by analyzing certain occurrences in life. This curiosity has led me to pursue a career in the field of data science as I believe there is data all around us, which, if interpreted correctly can be a valuable asset. I'm particularly interested in forming a strong foundation in the concepts of DS as well as recognize a niche that might interest me, which I can specialize in, moving forward.  
